@@ -2,8 +2,9 @@
 
 🧑‍💼  Mobile App Developer <br>
 ➡️   LinkedIn (www.linkedin.com/in/nebbai) <br> 
-🧑🏼‍💻  I'm now an Engineering Students and I work as a freelancer
-🇲🇦  From Morocco
+🧑🏼‍💻  I'm now an Engineering Students and I work as a freelancer <br> 
+
+🇲🇦  From Morocco <br> 
 
 ### Apps I have developed 👨‍💻
 
