@@ -1,7 +1,7 @@
 ### Hey, I'm Mohamed Nebbai! 👋
 
 🧑‍💼  Mobile App Developer <br>
-➡️   LinkedIn (www.linkedin.com/in/nebbai) <br> 
+➡️   [LinkedIn](www.linkedin.com/in/nebbai) <br> 
 🧑🏼‍💻  I'm now an Engineering Students and I work as a freelancer <br> 
 
 🇲🇦  From Morocco <br> 
