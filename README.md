@@ -11,5 +11,6 @@
 
 ### Apps I have Designed 🌎
 
-🐦 [Clickbait Game - UI/UX](https://www.behance.net/gallery/141399695/Clickbait-Game-UI-UX-Design) <br>
+🎮 [Clickbait Game - UI/UX Design](https://www.behance.net/gallery/141399695/Clickbait-Game-UI-UX-Design) <br>
+🎮 [Captain23 - UI Design](https://www.behance.net/gallery/108779183/Captain23-App-Design/modules/623256993) <br>
 
