@@ -1,7 +1,7 @@
 ### Hey, I'm Mohamed Nebbai! 👋
 
 ➡️   [LinkedIn](www.linkedin.com/in/nebbai) <br> 
-🧑🏼‍💻  I'm now an Engineering Student and I work as a freelancer <br> 
+🧑🏼‍💻  I'm now an Engineering Student and I have worked as a freelancer for 2 years<br> 
 
 🇲🇦  From Morocco <br> 
 
